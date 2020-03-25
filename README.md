@@ -1,2 +1,2 @@
-# taro-project-templates
-Templates for `taro init`
+# dylphin-project-templates
+Templates for `dylphin init`
